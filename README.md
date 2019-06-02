@@ -16,4 +16,5 @@ Node random;
 
 This random points to some next node or previous node which makes it acts as a snakes or a ladder. During the run time of the code the position of snakes and ladder is determined randomly. 
 
-Problem: Not a user friendly one. Since graphics is missing.!
+Problem: 1.Not a user friendly one. Since graphics is missing.!
+         2.code is bit long this can further be reduced.
