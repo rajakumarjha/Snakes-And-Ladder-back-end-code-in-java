@@ -18,3 +18,11 @@ This random points to some next node or previous node which makes it acts as a s
 
 Problem: 1.Not a user friendly one. Since graphics is missing.!
          2.code is bit long this can further be reduced.
+
+
+######### How to use it?   #########
+:)- Copy the code paste it on any editor 
+2) save it.
+3) Compile it and execute it
+4) Follow some pre-defined formalities code is leading you to do.
+5) Enjoy the game.
