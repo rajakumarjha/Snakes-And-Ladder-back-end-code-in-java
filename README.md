@@ -22,7 +22,7 @@ Problem: 1.Not a user friendly one. Since graphics is missing.!
 
 ######### How to use it?   #########
 :)- Copy the code paste it on any editor 
-2) save it.
-3) Compile it and execute it
-4) Follow some pre-defined formalities code is leading you to do.
-5) Enjoy the game.
+--> save it.
+--> Compile it and execute it
+--> Follow some pre-defined formalities code is leading you to do.
+--> Enjoy the game.
