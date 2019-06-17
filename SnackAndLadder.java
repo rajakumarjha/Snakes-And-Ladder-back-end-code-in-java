@@ -1,9 +1,7 @@
-package LinkedList;
+
 import java.util.*;
 
-import LinkedList.ReverseLL.Node;
-
-public class SnackAndLadder {
+public class SnakeAndLadder {
 	
 	static class Node{
 		int data;
